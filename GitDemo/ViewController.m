@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"首次提交");
+    NSLog(@"桌面。。。");
 }
 
 - (void)didReceiveMemoryWarning {
